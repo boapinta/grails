@@ -1,0 +1,1 @@
+<g:pdfLink url="/pdf/demo1">PDF View</g:pdfLink>
